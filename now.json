@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "alias": ["www.noders.fm"],
+  "alias": ["noders.fm"],
   "routes": [
     {
       "src": "/(.*)",
